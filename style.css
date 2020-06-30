@@ -17,7 +17,7 @@
 } */
 
 header{
-  background: url(images/ceramic.jpg);
+  background: url(images/nikita.jpg);
   background-size: cover;
   background-position: center;
   min-height: 600px;
@@ -41,7 +41,7 @@ a {
   }
 
   .wrap {
-    background: url(images/anotherplant.jpg);
+    background: url(images/officespace.jpg);
     background-size: cover;
     background-position: center;
     min-height: 600px;
